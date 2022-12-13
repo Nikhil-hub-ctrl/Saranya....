@@ -1,0 +1,5 @@
+n=int(input())
+x=input().split()
+print("The index value of 0 is",x.index('0'))
+print("The index value of 1 is",x.index('1'))
+print("The index value of 2 is",x.index('2'))
